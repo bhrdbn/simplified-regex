@@ -1,2 +1,2 @@
-# simplified-regex
-simplified regex implemented in Java using Trie Data Structure
+# Simplified regex
+Simplified regex implemented in Java using Trie Data Structure
